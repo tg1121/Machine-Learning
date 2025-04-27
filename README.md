@@ -1,4 +1,4 @@
-# MLP Project T12025 - Kaggle Competition
+# MLP Project - Kaggle Competition
 
 ## Project Overview
 
@@ -10,7 +10,7 @@ Using the information and labels in `train.csv`, the objective is to predict the
 
 ## Kaggle Competition Link
 
-The competition details and participation can be found on the [Kaggle competition page](https://www.kaggle.com/competitions/mlp-project-t12025). (Note: The competition is private and access is restricted.)
+The competition details and participation can be found on the [Kaggle competition page]([https://www.kaggle.com/competitions/System-Threat-Forecaster]). (Note: The competition is private and access is restricted.)
 
 ## Dataset Description
 
@@ -113,7 +113,7 @@ Submissions are evaluated based on the accuracy score, which compares the predic
 
 ## Note
 
-- The dataset for this project is private and only available through Kaggle, so please ensure you have access to it before proceeding with the project.
+- The dataset for this project is private and only available through Kaggle and if you are part of the learning program, so please ensure you have access to it before proceeding with the project.
 - This repository contains code and model implementation only; the dataset is not included.
 
 ## License
