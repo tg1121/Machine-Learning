@@ -10,7 +10,10 @@ Using the information and labels in `train.csv`, the objective is to predict the
 
 ## Kaggle Competition Link
 
-The competition details and participation can be found on the [Kaggle competition page]([https://www.kaggle.com/competitions/System-Threat-Forecaster]). (Note: The competition is private and access is restricted.)
+The competition details and participation can be found on the [Kaggle competition page](https://www.kaggle.com/competitions/System-Threat-Forecaster). (Note: The competition is private and access is restricted.)
+
+## **⚠️ WARNING: Data is Sparse!**
+> **Please note that the dataset is extremely sparse, achieving a very high accuracy score is not expected.**
 
 ## Dataset Description
 
@@ -119,7 +122,3 @@ Submissions are evaluated based on the accuracy score, which compares the predic
 ## License
 
 This project is for personal use and showcasing skills on Kaggle. All rights to the data and competition remain with Kaggle.
-
----
-
-Feel free to adjust this template as per your specific needs!
